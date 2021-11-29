@@ -26,12 +26,15 @@
 ❍ /refresh - Refresh admin list
 
 
-## Deploy On Railway
+## How To Host 
 
-[![ᴢᴀɪᴅ+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/newkanekibot/KanekiMusik&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,ASSISTANT_NAME,BOT_OWNER,LOG_CHANNEL,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
+
+# Deploy On Railway
+
+[![ᴢᴀɪᴅ+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/newkanekibot/KanekiMusic&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,ASSISTANT_NAME,BOT_OWNER,LOG_CHANNEL,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
 
 ## DEPLOY ON HEROKU 🚀
 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/newkanekibot/KanekiMusik"><img src="https://img.shields.io/badge/DECODE-HEROKU-green?style=plastic&logo=heroku&logoColor=yellow"width="400"heigh="8000" /></a></p>
 
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/newkanekibot/KanekiMusic"><img src="https://img.shields.io/badge/DECODE-HEROKU-green?style=plastic&logo=heroku&logoColor=yellow"width="400"heigh="8000" /></a></p>
