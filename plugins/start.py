@@ -40,7 +40,7 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Aɴᴅ Pʟᴀʏ Mᴜsɪᴄ Fʀᴇᴇʟ�
             [
                 [
                     InlineKeyboardButton(
-                        "Command List", url="https://telegra.ph/text-10-24")
+                        "Command List", url="https://telegra.ph/Commands-11-29")
                   ],[
                     InlineKeyboardButton(
                        "Support", url="https://t.me/TebBotSupport"
