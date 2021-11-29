@@ -1,12 +1,12 @@
 
 # [KANEKI MUSIC](https://t.me/Cyberhunt27) 
 
-![Decode](https://github.com/TeamDeeCode/newkanekibot/blob/Pytgcalls/20211105_114009.gif) 
+![Decode](https://github.com/newkanekibot/blob/Pytgcalls/20211105_114009.gif) 
 
 #  💡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ👥[Here !](https://t.me/TebBotSupport)
 
-[![DeCode](https://img.shields.io/badge/Kaneki%20-Support%20-blue)](https://t.me/TebBotSupport)
-[![DeCode](https://img.shields.io/badge/Kaneki%20-Updates%20-blue)](https://t.me/TebMusicUpdate)
+[![Kaneki](https://img.shields.io/badge/Kaneki%20-Support%20-blue)](https://t.me/TebBotSupport)
+[![Kaneki](https://img.shields.io/badge/Kaneki%20-Updates%20-blue)](https://t.me/TebMusicUpdate)
 
 
 ## Cᴏᴍᴍᴀɴᴅs
