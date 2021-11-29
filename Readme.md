@@ -38,4 +38,4 @@
 
 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/newkanekibot/KanekiMusik"><img src="https://img.shields.io/badge/KANEKI-HEROKU-green?style=plastic&logo=heroku&logoColor=yellow"width="400"heigh="4000" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/newkanekibot/KanekiMusik"><img src="https://img.shields.io/badge/KANEKI-HEROKU-green?style=plastic&logo=heroku&logoColor=yellow"width="100"heigh="2000" /></a></p>
