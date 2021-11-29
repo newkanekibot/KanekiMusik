@@ -33,5 +33,5 @@
 ## DEPLOY ON HEROKU 🚀
 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/newkanekibot/KanekiMusik"><img src="https://img.shields.io/badge/DECODE-HEROKU-green?style=plastic&logo=heroku&logoColor=yellow"width="400"heigh="6000" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/newkanekibot/KanekiMusik"><img src="https://img.shields.io/badge/DECODE-HEROKU-green?style=plastic&logo=heroku&logoColor=yellow"width="400"heigh="8000" /></a></p>
 
