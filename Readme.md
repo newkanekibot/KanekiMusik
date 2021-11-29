@@ -5,8 +5,8 @@
 
 #  💡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ👥[Here !](https://t.me/TebBotSupport)
 
-[![DeCode](https://img.shields.io/badge/DeCode%20-Support%20-blue)](https://t.me/TebBotSupport)
-[![DeCode](https://img.shields.io/badge/DeCode%20-Updates%20-blue)](https://t.me/TebMusicUpdate)
+[![DeCode](https://img.shields.io/badge/Kaneki%20-Support%20-blue)](https://t.me/TebBotSupport)
+[![DeCode](https://img.shields.io/badge/Kaneki%20-Updates%20-blue)](https://t.me/TebMusicUpdate)
 
 
 ## Cᴏᴍᴍᴀɴᴅs
