@@ -1,9 +1,7 @@
 
 # [KANEKI MUSIC](https://t.me/Cyberhunt27) 
 
-![Decode](https://github.com/newkanekibot/blob/Pytgcalls/20211105_114009.gif) 
-
-#  💡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ👥[Here !](https://t.me/TebBotSupport)
+# Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Support [Here !](https://t.me/TebBotSupport)
 
 [![Kaneki](https://img.shields.io/badge/Kaneki%20-Support%20-blue)](https://t.me/TebBotSupport)
 [![Kaneki](https://img.shields.io/badge/Kaneki%20-Updates%20-blue)](https://t.me/TebMusicUpdate)
@@ -12,7 +10,9 @@
 ## Cᴏᴍᴍᴀɴᴅs
 ```
 ->Music•Player<-
+
 =>> *Song Playing* 🎧 
+
 ❍ /play  - play song you requested
 ❍ /song  - download songs you want quickly
 ❍ /video  - download videos you want quickly
@@ -25,11 +25,6 @@
 ❍ /userbotjoin - invite assistant to your chat
 ❍ /refresh - Refresh admin list
 
-```
-
-
-## 💡 How To Host ❓️
-
 
 # Deploy On Railway
 
@@ -38,6 +33,5 @@
 ## DEPLOY ON HEROKU 🚀
 
 
-
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/newkanekibot/KanekiMusik"><img src="https://img.shields.io/badge/DECODE-HEROKU-green?style=plastic&logo=heroku&logoColor=yellow"width="400"heigh="8000" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/newkanekibot/KanekiMusik"><img src="https://img.shields.io/badge/DECODE-HEROKU-green?style=plastic&logo=heroku&logoColor=yellow"width="400"heigh="6000" /></a></p>
 
