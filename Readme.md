@@ -26,7 +26,7 @@
 ❍ /refresh - Refresh admin list
 
 
-# Deploy On Railway
+## Deploy On Railway
 
 [![ᴢᴀɪᴅ+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/newkanekibot/KanekiMusik&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,ASSISTANT_NAME,BOT_OWNER,LOG_CHANNEL,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
 
