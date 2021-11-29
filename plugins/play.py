@@ -247,7 +247,7 @@ async def play(_, message: Message):
 
         file_name = get_file_name(audio)
         title = file_name
-        thumb_name = "https://telegra.ph/file/69bc7377c11480a7cf20e.jpg"
+        thumb_name = "https://telegra.ph/file/0e333f611af7adcbf3c42.png"
         thumbnail = thumb_name
         duration = round(audio.duration / 60)
         views = "Locally added"
@@ -302,7 +302,7 @@ async def play(_, message: Message):
 
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://telegra.ph/file/69bc7377c11480a7cf20e.jpg"
+            thumb_name = "https://telegra.ph/file/0e333f611af7adcbf3c42.png"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
@@ -397,12 +397,12 @@ async def play(_, message: Message):
                 stream_type=StreamType().local_stream,
             ) 
         await message.reply_photo(
-            photo="final.jpg",
+            photo="final.png",
             reply_markup=keyboard,
             caption="**🎵 Song:** {}\n**🕒 Duration:** {} min\n**👤 Added By:** {}\n\n**▶️ Now Playing at `{}`...**".format(
                 title, duration, message.from_user.mention(), message.chat.title
             ),
         )
 
-    os.remove("final.jpg")
+    os.remove("final.png")
     return await lel.delete()
