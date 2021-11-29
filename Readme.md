@@ -26,7 +26,7 @@
 ❍ /refresh - Refresh admin list
 
 
-## How To Host 
+## 💡 How To Host ❓️
 
 
 # Deploy On Railway
